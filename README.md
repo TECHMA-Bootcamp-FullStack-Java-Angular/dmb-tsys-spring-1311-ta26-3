@@ -26,7 +26,7 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
   ``https://217.0.0.1:8183/doc.html``
 
-| CAJARO
+| CAJERO
 | ------------- 
 GET /api/v1/cajeros
 GET /api/v1/cajero/{id}
