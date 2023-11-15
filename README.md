@@ -25,3 +25,36 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 - Remember that you can see the rats accessing Swagger
 
   ``https://217.0.0.1:8183/doc.html``
+
+| CAJARO
+| ------------- 
+GET /api/v1/cajeros
+GET /api/v1/cajero/{id}
+POST /api/v1/cajero
+PUT /api/v1/cajero/{id}
+DELETE /api/v1/cajero/{id}
+
+| PRODUCTO
+| ------------- 
+GET /api/v1/productos
+GET /api/v1/producto/{id}
+POST /api/v1/producto
+PUT /api/v1/producto/{id}
+DELETE /api/v1/producto/{id}
+
+| MAQUINA_REG
+| ------------- 
+GET /api/v1/maquina-registradoras
+GET /api/v1/maquina-registradora/{id}
+POST /api/v1/maquina-registradoras
+PUT /api/v1/maquina-registradoras/{id}
+DELETE /api/v1/maquina-registradoras/{id}
+
+| VENTA
+| ------------- 
+GET /api/v1/ventas
+GET /api/v1/venta/{id}
+POST /api/v1/venta
+PUT /api/v1/venta/{id}
+DELETE /api/v1/venta/{id}
+
