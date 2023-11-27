@@ -6,7 +6,7 @@
 
 # T26-3 - Spring Mysql
 
-Este repositorio contiene las tareas del Bootcamp 👨‍💻
+This repository contains the Bootcamp tasks 👨‍💻
 
 #### ### Rules of use 🤜🏼🤛🏼
 
@@ -25,6 +25,8 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 - Remember that you can see the rats accessing Swagger
 
   ``https://217.0.0.1:8183/doc.html``
+  
+<hr>
 
 | CAJERO
 | ------------- 
@@ -34,6 +36,8 @@ POST /api/v1/cajero
 PUT /api/v1/cajero/{id}
 DELETE /api/v1/cajero/{id}
 
+<hr>
+
 | PRODUCTO
 | ------------- 
 GET /api/v1/productos
@@ -42,6 +46,8 @@ POST /api/v1/producto
 PUT /api/v1/producto/{id}
 DELETE /api/v1/producto/{id}
 
+<hr>
+
 | MAQUINA_REG
 | ------------- 
 GET /api/v1/maquina-registradoras
@@ -49,6 +55,8 @@ GET /api/v1/maquina-registradora/{id}
 POST /api/v1/maquina-registradoras
 PUT /api/v1/maquina-registradoras/{id}
 DELETE /api/v1/maquina-registradoras/{id}
+
+<hr>
 
 | VENTA
 | ------------- 
